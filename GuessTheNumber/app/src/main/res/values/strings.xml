@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="random_number_statement">[Random number statement]</string>
+    <string name="question_text">[Question]</string>
+    <string name="guess">Guess</string>
+    <string name="reset">Reset</string>
+</resources>

@@ -1,0 +1,1 @@
+Coding note: As opposed to the GuessTheNumber application, the code for the button functionality is created in its own method (testNumber) rather than creating a buttonListener in the onCreate override method. These are in the MainActivity.java file.
